@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_game.dir/main.c.o -o my_game  -Wl,-rpath,/home/ibrab/vcpkg/installed/x64-linux/debug/lib /home/ibrab/vcpkg/installed/x64-linux/debug/lib/libraylib.a /home/ibrab/vcpkg/installed/x64-linux/debug/lib/libglfw3.a -lm /home/ibrab/vcpkg/installed/x64-linux/debug/lib/libraylib.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl
